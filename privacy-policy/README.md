@@ -94,4 +94,4 @@ If you have questions or concerns about this Privacy Policy or Jabber Chatter, p
 
 ---
 
-© [2026] Jabber Chatter. All rights reserved.
+© 2026 Jabber Chatter. All rights reserved.
