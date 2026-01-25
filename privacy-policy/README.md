@@ -1,6 +1,6 @@
 # Privacy Policy for Jabber Chatter
 
-**Effective Date:** [2026-01-25]
+**Effective Date:** 2026-01-25
 
 Jabber Chatter ("Company," “we,” “us,” or “our”) respects your privacy and is committed to protecting it. This Privacy Policy explains how information is handled when you use the Jabber Chatter iOS application and its associated services (collectively, the “App”).
 
